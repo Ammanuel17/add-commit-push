@@ -1,0 +1,1 @@
+Add git commit shortcut
